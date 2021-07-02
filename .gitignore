@@ -1,0 +1,7 @@
+config.yml
+data/
+
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
