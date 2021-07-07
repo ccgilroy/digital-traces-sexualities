@@ -6,7 +6,7 @@ Citation:
 
 > [to be added]
 
-<img alt="Negative binomial model fit to estimates from September 2017" src="output/figures/models/figure7_model_estimates.png" style="max-width:75%;"/>
+<img alt="Negative binomial model fit to estimates from September 2017" src="output/figures/models/figure7_model_estimates.png" width="75%"/>
 
 Note: this repository includes only the code relevant to the published paper, not all of the code produced over the course of the project. It includes **Python scripts** for data collection and **R scripts** for data analysis.
 
