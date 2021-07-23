@@ -4,7 +4,7 @@ Code and materials for "Digital Traces of Sexualities: Understanding the Salienc
 
 Citation: 
 
-> [to be added]
+> Gilroy, Connor, and Ridhi Kashyap. 2021. "Digital Traces of Sexualities: Understanding the Salience of Sexual Identity through Disclosure on Social Media." *Socius* 7:1–18. doi: [10.1177/23780231211029499](https://doi.org/10.1177/23780231211029499).
 
 <img alt="Negative binomial model fit to estimates from September 2017" src="output/figures/models/figure7_model_estimates.png" width="75%"/>
 
